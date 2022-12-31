@@ -1,0 +1,2 @@
+# Food_Delivery_Platform_in_class_database_management
+資料庫管理課程_餐廳外送平台 使用MySQL Workbench建立ER model &amp; diagram並透過ER model建立SQL script
